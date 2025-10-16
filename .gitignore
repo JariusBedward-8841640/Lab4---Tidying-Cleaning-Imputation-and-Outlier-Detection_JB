@@ -1,0 +1,21 @@
+#Virtual Enviorment Files
+venv/
+env/
+*.env
+
+
+#IDE / editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+
+#Log and Temp files
+*.log
+*.tmp
+
+
+
+
+
